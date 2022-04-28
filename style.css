@@ -1,0 +1,29 @@
+body {
+  background: #f4ffaf;
+}
+
+.contenedor {
+  background: #fff;
+  width: 80%;
+  margin: auto;
+  padding: 1em;
+}
+
+.cabecera {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 52px;
+}
+
+h2 {
+  font-weight: 400;
+  margin-top: 10;
+}
+
+.avatar {
+  border-radius: 50%;
+}
